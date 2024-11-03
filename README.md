@@ -35,9 +35,10 @@ This README provides a clear overview of the project, setup instructions, and us
 
 
 ## configuration email setup :
--*email_address = "your_email@gmail.com"*
--*password = "your_email_password"*
--*toaddr = "recipient_email@gmail.com"*
+
+- **email_address = "your_email@gmail.com"**
+ **password = "your_email_password"**
+- **toaddr = "recipient_email@gmail.com"**
 
 
 ## Contributing : 
