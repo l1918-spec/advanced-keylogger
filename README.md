@@ -43,7 +43,7 @@ This README provides a clear overview of the project, setup instructions, and us
 
 ## Contributing : 
 -**If you see ways to improve the project, feel free to fork the repository and submit a pull request with your ideas or fixes! Contributions to make this project better are always welcome.**
-
+lydiacharif02@gmail.com
 
 
 
