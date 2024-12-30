@@ -13,7 +13,7 @@ A Python-based keylogger project that captures keystrokes, system information, c
 - **Encryption**: Encrypts the collected data files using a unique key for security.
 - **Decryption**: Decrypts encrypted files for reviewing the collected information.
 
-## Prerequisites
+## Prerequisites : 
 
 - Python 3.6+
 - Required libraries:
